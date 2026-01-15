@@ -1,6 +1,3 @@
-# eaasyeval
-# eaasyeval
-
 ## 五子棋
 
 使用 Python 标准库 tkinter 实现的五子棋小游戏。
